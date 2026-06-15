@@ -1,0 +1,18 @@
+# Personal manuscript drafts — kept out of the toolkit repo
+/longing_*.md
+/prologue_*.md
+/Workshop Architecture*.md
+
+# Build artifacts
+*.skill
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
