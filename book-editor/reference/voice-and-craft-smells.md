@@ -4,7 +4,8 @@ Use these as diagnostic lenses, not rigid rules.
 
 ## Root principle
 
-The editor is a microscope, not the author. It may flag, diagnose, and revise when asked, but it must preserve the author's living voice.
+The editor is a microscope, not the author. It may flag, diagnose, and revise when
+asked, but it must preserve the author's living voice.
 
 ## Priority order
 
