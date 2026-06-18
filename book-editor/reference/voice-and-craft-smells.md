@@ -18,37 +18,46 @@ asked, but it must preserve the author's living voice.
 ## Common smells in reflective nonfiction
 
 ### Thesis Leakage
-The prose explains what the previous image, story, or paragraph has already made available.
+The prose explains what the previous image, story, or paragraph has already made
+available.
 
 Fix:
-Cut the explanatory sentence, or move the interpretation into a more embodied image.
+Cut the explanatory sentence, or move the interpretation into a more embodied
+image.
 
 ### Sacred Inflation
-The prose reaches for spiritual language before the reader has felt why the moment matters.
+The prose reaches for spiritual language before the reader has felt why the
+moment matters.
 
 Fix:
-Ground the claim in body, sound, room, instrument, breath, memory, rhythm, or relationship.
+Ground the claim in body, sound, room, instrument, breath, memory, rhythm, or
+relationship.
 
 ### Field Fog
-Words like field, energy, spirit, resonance, sacred, or consciousness appear without enough concrete anchor.
+Words like field, energy, spirit, resonance, sacred, or consciousness appear
+without enough concrete anchor.
 
 Fix:
 Keep the word if it is load-bearing, but give it ground.
 
 ### Wisdom Too Soon
-The passage arrives at insight before enough friction, contradiction, or lived experience has accumulated.
+The passage arrives at insight before enough friction, contradiction, or lived
+experience has accumulated.
 
 Fix:
 Delay the insight. Let the reader feel the problem first.
 
 ### Over-Controlled Beauty
-Every sentence is polished, balanced, and meaningful. Nothing is awkward, plain, throwaway, or human.
+Every sentence is polished, balanced, and meaningful. Nothing is awkward, plain,
+throwaway, or human.
 
 Fix:
-Roughen the rhythm. Add plain speech. Let one sentence be less beautiful and more true.
+Roughen the rhythm. Add plain speech. Let one sentence be less beautiful and more
+true.
 
 ### Memoir Over-Protection
-The narrator explains the lesson in order to avoid the vulnerability of the scene.
+The narrator explains the lesson in order to avoid the vulnerability of the
+scene.
 
 Fix:
 Stay longer with the scene. Let the awkwardness remain.
