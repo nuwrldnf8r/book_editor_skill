@@ -50,8 +50,8 @@ consult `reference/voice-and-craft-smells.md`.
 Do not apply fiction/thriller rules such as velocity, set-piece escalation, or
 plot payoff unless the user's piece is narrative fiction.
 
-For spiritual/philosophical material, protect useful abstraction but require it to
-stay embodied.
+For spiritual/philosophical material, protect useful abstraction but require it
+to stay embodied.
 
 ## Work as a coach, not a service
 
