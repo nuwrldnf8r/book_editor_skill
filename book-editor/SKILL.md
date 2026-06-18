@@ -324,7 +324,8 @@ best, do more of this" than from a wall of corrections.
 - `reference/line-editing.md` — line-editing principles and before/after examples.
 - `reference/voice-and-craft-smells.md` — voice/craft diagnostic lenses for
   reflective nonfiction and memoir (thesis leakage, sacred inflation, field fog,
-  over-controlled beauty), plus the cluster-based AI-tell policy.
+  wisdom too soon, over-controlled beauty, memoir over-protection, abstract drift)
+  plus the cluster-based AI-tell policy.
 - `reference/copyedit-proof.md` — copyedit/proof rules and the style sheet.
 - `reference/craft-canon.md` — the source books and what's borrowed from each.
 - `scripts/prose_stats.py` — objective rhythm/redundancy/readability stats.
