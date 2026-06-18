@@ -181,9 +181,10 @@ This is the pass the author cares about most: making the prose flow, find its
 rhythm, and hold the reader. Edit at the paragraph and sentence level, always in
 service of the voice. Full method and examples in `reference/line-editing.md`.
 For memoir and reflective nonfiction, also apply the diagnostic lenses in
-`reference/voice-and-craft-smells.md` (thesis leakage, sacred inflation, abstract
-drift, and the cluster-based AI-tell policy). The principles, drawn from the craft
-canon:
+`reference/voice-and-craft-smells.md` (e.g., thesis leakage, sacred inflation, field fog,
+wisdom too soon, over-controlled beauty, memoir over-protection, abstract drift) and the
+cluster-based AI-tell policy.
+The principles, drawn from the craft canon:
 
 - **Flow / cohesion (Williams).** Sentences cohere when they move from old, known
   information to new. A paragraph that feels choppy usually breaks this old-to-new
