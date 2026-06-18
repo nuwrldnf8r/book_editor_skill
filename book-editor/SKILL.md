@@ -180,6 +180,10 @@ can answer. Do not rewrite structure unilaterally — propose, discuss, then act
 This is the pass the author cares about most: making the prose flow, find its
 rhythm, and hold the reader. Edit at the paragraph and sentence level, always in
 service of the voice. Full method and examples in `reference/line-editing.md`.
+For memoir and reflective nonfiction, also apply the diagnostic lenses in
+`reference/voice-and-craft-smells.md` (e.g., thesis leakage, sacred inflation, field fog,
+wisdom too soon, over-controlled beauty, memoir over-protection, abstract drift) and the
+cluster-based AI-tell policy.
 The principles, drawn from the craft canon:
 
 - **Flow / cohesion (Williams).** Sentences cohere when they move from old, known
@@ -318,6 +322,10 @@ best, do more of this" than from a wall of corrections.
 
 - `reference/developmental.md` — structural/developmental method.
 - `reference/line-editing.md` — line-editing principles and before/after examples.
+- `reference/voice-and-craft-smells.md` — voice/craft diagnostic lenses for
+  reflective nonfiction and memoir (thesis leakage, sacred inflation, field fog,
+  wisdom too soon, over-controlled beauty, memoir over-protection, abstract drift)
+  plus the cluster-based AI-tell policy.
 - `reference/copyedit-proof.md` — copyedit/proof rules and the style sheet.
 - `reference/craft-canon.md` — the source books and what's borrowed from each.
 - `scripts/prose_stats.py` — objective rhythm/redundancy/readability stats.
