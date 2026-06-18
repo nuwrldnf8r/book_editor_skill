@@ -48,11 +48,34 @@ work together.
    self-editor over time.
 
 ## Installing
-These are Claude skills. To use them:
-- In Cowork/Claude Desktop: **Settings → Capabilities → add a skill**, and point it
-  at each skill folder (or its packaged `.skill` file).
-- The skills are self-contained Markdown + small Python scripts; no dependencies
-  beyond Python 3.
+
+### Claude Code — plugin marketplace (recommended)
+This repo is a Claude Code [plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces).
+Add it once, then install either plugin:
+
+```text
+/plugin marketplace add nuwrldnf8r/book_editor_skill
+/plugin install book-editor@book-editor-skill
+```
+
+`book-editor` lists `humanizer` as a dependency, so installing it pulls the
+humanizer in automatically. To install the voice pass on its own:
+
+```text
+/plugin install humanizer@book-editor-skill
+```
+
+Update later with `/plugin marketplace update book-editor-skill`, and manage what's
+installed from the `/plugin` menu. You can also add the marketplace from a full URL
+(`/plugin marketplace add https://github.com/nuwrldnf8r/book_editor_skill`) or a
+local clone (`/plugin marketplace add ./book_editor_skill`).
+
+### Claude Desktop / Cowork — manual
+- **Settings → Capabilities → add a skill**, and point it at each skill folder
+  (`book-editor/` and `humanizer/`) or its packaged `.skill` file.
+
+Either way, the skills are self-contained Markdown + small Python scripts; no
+dependencies beyond Python 3.
 
 ## Using the scripts directly
 ```bash
